@@ -1,0 +1,22 @@
+## 16 February 2026
+
+### Topics Covered
+
+* Bootstrap Forms
+
+### Code Practiced
+
+```html id="bs04"
+<form class="container">
+  <input class="form-control" type="text" placeholder="Name"><br>
+  <button class="btn btn-success">Submit</button>
+</form>
+```
+
+### Learning Outcome
+
+* Professional forms banana seekha
+
+### Next Plan
+
+* Combine everything
