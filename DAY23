@@ -1,0 +1,23 @@
+## 11 February 2026
+
+### Topics Covered
+
+* DOM Manipulation (Basics)
+
+### Code Practiced
+
+```html id="js07"
+<p id="text">Hello</p>
+
+<script>
+    document.getElementById("text").innerHTML = "Changed Text";
+</script>
+```
+
+### Learning Outcome
+
+* Page ke elements ko change karna aa gaya
+
+### Next Plan
+
+* Events
