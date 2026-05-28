@@ -1,0 +1,45 @@
+## 28 January 2026 (Weekend Mini Project)
+
+### Project: Basic Portfolio Page
+
+### Features
+
+* Heading with name
+* About section
+* Image
+* Contact form
+
+### Code
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfolio</title>
+</head>
+<body>
+
+<h1>My Portfolio</h1>
+
+<p>Hello, I am learning web development.</p>
+
+<img src="profile.jpg" width="150">
+
+<h2>Contact Me</h2>
+<form>
+    <input type="text" placeholder="Name"><br>
+    <input type="email" placeholder="Email"><br>
+    <input type="submit">
+</form>
+
+</body>
+</html>
+```
+
+### Learning Outcome
+
+* Sab concepts ko combine karke ek page banaya
+
+### Improvement Areas
+
+* Styling missing hai (CSS next step)
