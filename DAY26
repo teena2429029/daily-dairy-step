@@ -1,0 +1,24 @@
+## 14 February 2026
+
+### Topics Covered
+
+* Bootstrap Grid System
+
+### Code Practiced
+
+```html id="bs02"
+<div class="container">
+  <div class="row">
+    <div class="col-6">Left</div>
+    <div class="col-6">Right</div>
+  </div>
+</div>
+```
+
+### Learning Outcome
+
+* Responsive layout banana samajh aaya
+
+### Next Plan
+
+* Components
