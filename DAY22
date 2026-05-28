@@ -1,0 +1,23 @@
+## 10 February 2026
+
+### Topics Covered
+
+* Functions
+
+### Code Practiced
+
+```javascript id="js06"
+function greet(name) {
+    return "Hello " + name;
+}
+
+console.log(greet("Max"));
+```
+
+### Learning Outcome
+
+* Reusable code likhna aa gaya
+
+### Next Plan
+
+* DOM basics
