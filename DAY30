@@ -1,0 +1,52 @@
+## 18 February 2026 (Weekend Mini Project)
+
+### Project: Responsive Portfolio Page
+
+### Features
+
+* Bootstrap grid layout
+* Styled cards
+* Responsive design
+* Contact form
+
+### Code
+
+```html id="bs05"
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container text-center">
+  <h1 class="my-4">My Portfolio</h1>
+
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card p-3">
+        <h5>Project 1</h5>
+        <p>Description</p>
+      </div>
+    </div>
+  </div>
+
+  <form class="mt-4">
+    <input class="form-control mb-2" placeholder="Name">
+    <button class="btn btn-primary">Submit</button>
+  </form>
+
+</div>
+
+</body>
+</html>
+```
+
+### Learning Outcome
+
+* Responsive UI banana aa gaya
+* Bootstrap ka real use samajh aaya
+
+### Improvement Areas
+
+* Advanced components aur layouts explore karne hain
