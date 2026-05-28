@@ -1,0 +1,25 @@
+
+
+### Topics Covered
+
+* Colors and Background
+
+### Code Practiced
+
+```css id="c3"
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+}
+```
+
+### Learning Outcome
+
+* Page ka visual look change karna seekha
+
+### Next Plan
+
+* Box Model
