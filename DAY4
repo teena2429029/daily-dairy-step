@@ -1,0 +1,38 @@
+## 23 January 2026
+
+### Topics Covered
+
+* Introduction to HTML
+* Basic structure of HTML
+
+### Concepts Learned
+
+* HTML ek markup language hai
+* Structure:
+
+  * <!DOCTYPE html>
+  * <html>
+  * <head>
+  * <body>
+
+### Code Practiced
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Page</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+```
+
+### Learning Outcome
+
+* HTML ka base structure samajh aaya
+
+### Next Plan
+
+* Tags aur text formatting
