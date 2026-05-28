@@ -1,0 +1,29 @@
+## 21 January 2026
+
+### Topics Covered
+
+* Git basic commands
+
+### Commands Practiced
+
+```bash
+git init
+git add .
+git commit -m "first commit"
+git status
+```
+
+### Concepts Learned
+
+* Repository kya hoti hai
+* Staging area ka concept
+* Commit ka matlab snapshot lena
+
+### Learning Outcome
+
+* Local repository bana li
+* First commit successfully kiya
+
+### Next Plan
+
+* GitHub pe push karna
