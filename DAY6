@@ -1,0 +1,21 @@
+## 25 January 2026
+
+### Topics Covered
+
+* Links and Images
+
+### Code Practiced
+
+```html
+<a href="https://google.com">Visit Google</a>
+
+<img src="image.jpg" alt="Sample Image" width="200">
+```
+
+### Learning Outcome
+
+* External links aur images add karna seekha
+
+### Next Plan
+
+* Lists aur Tables
