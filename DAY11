@@ -1,0 +1,35 @@
+
+
+### Topics Covered
+
+* CSS Selectors
+
+### Concepts Learned
+
+* Element selector
+* Class selector
+* ID selector
+
+### Code Practiced
+
+```css id="c2"
+p {
+    color: green;
+}
+
+.myclass {
+    color: blue;
+}
+
+#myid {
+    color: red;
+}
+```
+
+### Learning Outcome
+
+* Different elements ko target karna seekha
+
+### Next Plan
+
+* Colors and Background
