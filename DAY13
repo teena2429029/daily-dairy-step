@@ -1,0 +1,30 @@
+## 1 February 2026
+
+### Topics Covered
+
+* CSS Box Model
+
+### Concepts Learned
+
+* Margin
+* Border
+* Padding
+* Content
+
+### Code Practiced
+
+```css id="c4"
+div {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+```
+
+### Learning Outcome
+
+* Spacing control karna samajh aaya
+
+### Next Plan
+
+* Display and Position
