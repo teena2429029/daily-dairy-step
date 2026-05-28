@@ -1,0 +1,37 @@
+## 12 February 2026 (Weekend Mini Project)
+
+### Project: Simple Interactive Page
+
+### Features
+
+* Button click par text change
+* Basic DOM + Event handling
+
+### Code
+
+```html id="js08"
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo">Click the button</p>
+
+<button onclick="changeText()">Click Me</button>
+
+<script>
+function changeText() {
+    document.getElementById("demo").innerHTML = "Text Changed";
+}
+</script>
+
+</body>
+</html>
+```
+
+### Learning Outcome
+
+* JavaScript se interactivity add karna seekha
+
+### Improvement Areas
+
+* Advanced DOM aur events seekhne hain
