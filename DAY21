@@ -1,0 +1,21 @@
+## 9 February 2026
+
+### Topics Covered
+
+* Loops
+
+### Code Practiced
+
+```javascript id="js05"
+for (let i = 1; i <= 5; i++) {
+    console.log(i);
+}
+```
+
+### Learning Outcome
+
+* Repetition logic clear hua
+
+### Next Plan
+
+* Functions
