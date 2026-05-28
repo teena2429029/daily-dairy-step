@@ -1,0 +1,29 @@
+# Developer Learning Diary
+
+
+### Topics Covered
+
+* Introduction to Git and GitHub
+
+### Concepts Learned
+
+* Git ek version control system hai
+* GitHub ek online platform hai code store aur share karne ke liye
+* Version control ka use changes track karne ke liye hota hai
+
+### Commands Practiced
+
+```bash
+git --version
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+```
+
+### Learning Outcome
+
+* Git aur GitHub ka basic idea clear hua
+* Setup complete ho gaya
+
+### Next Plan
+
+* Repository create karna aur basic commands seekhna
