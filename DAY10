@@ -1,0 +1,33 @@
+
+
+### Topics Covered
+
+* Introduction to CSS
+* Ways to apply CSS (Inline, Internal, External)
+
+### Concepts Learned
+
+* CSS ka use styling ke liye hota hai
+* External CSS best practice hai
+
+### Code Practiced
+
+```html id="c1"
+<p style="color: red;">Inline CSS</p>
+
+<style>
+p {
+    color: blue;
+}
+</style>
+
+<link rel="stylesheet" href="style.css">
+```
+
+### Learning Outcome
+
+* CSS apply karne ke 3 tarike samajh aaye
+
+### Next Plan
+
+* Selectors
