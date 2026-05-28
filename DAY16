@@ -1,0 +1,54 @@
+## 4 February 2026 (Weekend Mini Project)
+
+### Project: Styled Portfolio Page
+
+### Features
+
+* Centered layout using flexbox
+* Background color
+* Styled text
+* Button design
+
+### Code
+
+```html id="c7"
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+    <h1>My Portfolio</h1>
+    <p>Learning CSS</p>
+    <button>Contact Me</button>
+</div>
+</body>
+</html>
+```
+
+### Learning Outcome
+
+* HTML + CSS combine karke UI banana aa gaya
+
+### Improvement Areas
+
+* Responsive design abhi pending hai
