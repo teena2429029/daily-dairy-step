@@ -1,0 +1,29 @@
+## 3 February 2026
+
+### Topics Covered
+
+* Flexbox
+
+### Concepts Learned
+
+* justify-content
+* align-items
+* flex-direction
+
+### Code Practiced
+
+```css id="c6"
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+```
+
+### Learning Outcome
+
+* Layout banana easy ho gaya
+
+### Next Plan
+
+* Combine all CSS
