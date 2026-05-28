@@ -1,0 +1,25 @@
+## 8 February 2026
+
+### Topics Covered
+
+* Conditional Statements
+
+### Code Practiced
+
+```javascript id="js04"
+let age = 18;
+
+if (age >= 18) {
+    console.log("Adult");
+} else {
+    console.log("Minor");
+}
+```
+
+### Learning Outcome
+
+* Decision making logic samajh aaya
+
+### Next Plan
+
+* Loops
