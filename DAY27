@@ -1,0 +1,26 @@
+## 15 February 2026
+
+### Topics Covered
+
+* Bootstrap Components (Buttons, Cards)
+
+### Code Practiced
+
+```html id="bs03"
+<button class="btn btn-primary">Click Me</button>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Title</h5>
+    <p class="card-text">Some text</p>
+  </div>
+</div>
+```
+
+### Learning Outcome
+
+* Ready UI components use karna aa gaya
+
+### Next Plan
+
+* Forms
