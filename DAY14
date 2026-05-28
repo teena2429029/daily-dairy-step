@@ -1,0 +1,31 @@
+## 2 February 2026
+
+### Topics Covered
+
+* Display and Position
+
+### Concepts Learned
+
+* display: block, inline
+* position: relative, absolute
+
+### Code Practiced
+
+```css id="c5"
+div {
+    display: block;
+}
+
+.box {
+    position: relative;
+    top: 20px;
+}
+```
+
+### Learning Outcome
+
+* Layout control karna start kiya
+
+### Next Plan
+
+* Flexbox
