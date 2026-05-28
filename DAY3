@@ -1,0 +1,25 @@
+## 22 January 2026
+
+### Topics Covered
+
+* GitHub integration
+
+### Commands Practiced
+
+```bash
+git remote add origin https://github.com/username/repo.git
+git push -u origin main
+```
+
+### Concepts Learned
+
+* Local aur remote repository ka difference
+* Code ko GitHub pe upload karna
+
+### Learning Outcome
+
+* First project GitHub pe upload kiya
+
+### Next Plan
+
+* HTML start karna
