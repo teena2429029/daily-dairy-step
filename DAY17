@@ -1,0 +1,26 @@
+## 5 February 2026
+
+### Topics Covered
+
+* Introduction to JavaScript
+* How to add JS in HTML
+
+### Concepts Learned
+
+* JavaScript ek scripting language hai jo web pages ko dynamic banati hai
+
+### Code Practiced
+
+```html id="js01"
+<script>
+    alert("Hello World");
+</script>
+```
+
+### Learning Outcome
+
+* JavaScript ko HTML me use karna aa gaya
+
+### Next Plan
+
+* Variables aur data types
