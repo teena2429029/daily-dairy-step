@@ -1,0 +1,23 @@
+## 27 January 2026
+
+### Topics Covered
+
+* HTML Forms
+
+### Code Practiced
+
+```html
+<form>
+    Name: <input type="text"><br>
+    Email: <input type="email"><br>
+    <input type="submit">
+</form>
+```
+
+### Learning Outcome
+
+* User input lena seekha
+
+### Next Plan
+
+* Combine all concepts
