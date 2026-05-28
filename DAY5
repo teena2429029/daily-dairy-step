@@ -1,0 +1,24 @@
+## 24 January 2026
+
+### Topics Covered
+
+* Headings, Paragraphs, Formatting tags
+
+### Code Practiced
+
+```html
+<h1>Main Heading</h1>
+<h2>Sub Heading</h2>
+<p>This is a paragraph</p>
+<b>Bold Text</b>
+<i>Italic Text</i>
+<u>Underline</u>
+```
+
+### Learning Outcome
+
+* Basic tags ka use aa gaya
+
+### Next Plan
+
+* Links aur Images
